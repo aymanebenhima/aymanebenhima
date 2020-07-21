@@ -4,8 +4,6 @@
 
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on my goal 🎯 to become a good developer
 - 🌱 I’m currently learning Vue.js and Laravel
 - 💬 Ask me about frontend development,
