@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi I'm Aymane 👋 🏾‍💻
 
-<!--
-**aymanebenhima/aymanebenhima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my goal 🎯 to become a good developer
+- 🌱 I’m currently learning Vue.js and Laravel
+- 💬 Ask me about frontend development,
+- 📫 How to reach me: aymanebenhima@gmail.com or Twitter [@aymanebenhima](twitter.com/aymanebenhima)
+- 😄 Pronouns: he/his
+- ⚡ Fun fact: I love 🚴 cycling and 🎣 fishing too!
+
+## Find me around the web 🌎:
+- Go to my public portfolio <a href="https://www.aymendev.me">aymendev.me</a> 📹 ✍🏾
+
+- Sharing updates on <a href="https://www.linkedin.com/in/aymanebenhima/">LinkedIn</a> 💼
