@@ -1,5 +1,7 @@
 # Hi I'm Aymane 👋 🏾‍💻
 
+<img align="right" src="https://github.com/aymanebenhima/aymanebenhima/blob/master/_laravel_and_vue.svg" alt="Illustration of dev" width=350px height=465px/>
+
 I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
 
 Here are some ideas to get you started:
