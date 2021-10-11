@@ -76,6 +76,6 @@ I am a web developer, ambitious person who has developed a mature and responsibl
 - ⚡ Fun fact: I love 🚴 cycling and 🎣 fishing too!
 
 ## Find me around the web 🌎:
-- Go to my public portfolio <a href="https://www.aymendev.me">aymendev.me</a> 📹 ✍🏾
+- Go to my public portfolio <a href="http://www.aymendev.me">aymendev.me</a> 📹 ✍🏾
 
 - Sharing updates on <a href="https://www.linkedin.com/in/aymanebenhima/">LinkedIn</a> 💼
