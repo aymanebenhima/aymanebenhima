@@ -1,11 +1,16 @@
 # Hi I'm Aymane 👋 🏾‍💻
 
 <img src="https://github.com/aymanebenhima/aymanebenhima/blob/master/cover-compressor.png" alt="coverture of my demo"/>
-
-<img align="right" src="https://github.com/aymanebenhima/aymanebenhima/blob/master/_laravel_and_vue.svg" alt="Illustration of dev" width=350px height=465px/>
-I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence. 
-
 <div align="center">
+  <p>
+  I am a web developer, ambitious person who has developed a mature and responsible approach to any task I undertake, or situation that I am presented with. As a graduate with two years of experience in web development. I am excellent at working with others to achieve a certain objective on time and with excellence.
+  </p>
+</div>
+<div align="center">
+<a align="right" href="https://app.daily.dev/aymanebenhima"><img src="https://api.daily.dev/devcards/fa26135698e14383b6f87f7fd51dd457.png?r=56b" width="400" alt="AYMANE BENHIMA's Dev Card"/></a>
+
+
+<div align="left">
 <a>
   <img src="https://github-readme-stats.vercel.app/api?username=aymanebenhima&theme=tokyonight&show_icons=true" height=150 />
 </a>
@@ -17,7 +22,7 @@ I am a web developer, ambitious person who has developed a mature and responsibl
   <img src="https://activity-graph.herokuapp.com/graph?username=aymanebenhima&theme=rogue" width=50% height=200 alt="graph"/>
 </a>
 </div>
-
+</div>
 ### I make *pretty* things using:
 
 ![Python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
